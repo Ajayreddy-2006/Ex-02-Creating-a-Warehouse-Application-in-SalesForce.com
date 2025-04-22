@@ -1,4 +1,4 @@
-# Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
+# Ex-06-Creating-a-Warehouse-Application-in-SalesForce.com
 
 **AADHITHYA D**
 **212222220001**
